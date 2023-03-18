@@ -1,0 +1,14 @@
+data 1 out/bgd.pha
+back 1 out/bgd.pha
+resp 1 out/sample.rsp 
+model tbabs * cutoffpl 
+1.0
+2.0
+10.0
+10.0
+
+fakeit
+y
+
+out/cutoffpl_fak.pha
+1000.0,1.0,1.0
